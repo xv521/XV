@@ -1,0 +1,76 @@
+cron "30 11 * * *" script-path=https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=🚛京东物流
+
+cron "5 3 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/jd/JD_BaiTiao.js, tag=📃京东白条
+
+cron "30 1 8 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=🖥吾爱破解
+
+cron "10 2 8 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.js, tag=🎶网易音乐
+
+cron "7 0 * * *" script-path=https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jingxi.js, tag=🐶京东京喜
+
+cron "2 0 * * *" script-path=https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_paopao.js, tag=👾泡泡作战
+
+cron "30 8-22 * * *" script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=🌩彩云天气
+
+cron "3 4 * * *" script-path=https://raw.githubusercontent.com/dompling/Script/master/birthdayCountDown/index.js, tag=🔆生日倒计时
+
+cron "0 9 8 * * *" script-path=https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js, tag=🔆饿了么-签到
+
+cron "0 9 8 * * *" script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, tag=🔆饿了么-打卡
+
+cron "20 1 8 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, enabled=false, tag=🐸爱奇艺
+
+
+cron "0 9 * * *" script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/ddxw.js, enabled=false, tag=🏡京东小窝
+cron "0 */3 * * *" script-path=https://raw.githubusercontent.com/799953468/Quantumult-X/master/Scripts/JD/jd_factory.js, tag=🏭京东工厂
+
+
+
+
+
+
+cron "2 9 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_bean_change.js, tag=🌸京豆变动
+
+cron "15 1 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=🎁京东签到
+
+cron "3 6-18/6 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_fruit.js, tag=🍓东东农场
+
+cron "4 7-19/6 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pet.js, tag=🐣东东萌宠
+
+cron "5 7-21/2 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_plantBean.js, tag=🥀种豆得豆
+
+cron "6 1-23/2 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_superMarket.js, tag=🛒京小超市
+
+cron "7 */2 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy.js, tag=🦁宠汪汪汪
+
+cron "8 */3 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_speed.js, tag=🚀天天加速
+
+cron "9 */3 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_moneyTree.js, tag=🎄摇钱树呢
+
+cron "10 0 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_shop.js, tag=🏘进店领豆
+
+cron "5 0 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_club_lottery.js, tag=🍥摇京豆呢
+
+cron "5 0 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_daily_egg.js, tag=🦢天天提鹅
+
+cron "5 0 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_pigPet.js, tag=🐷全民养猪
+
+cron "1 1 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_redPacket.js, tag=🧧全民开红包
+
+cron "1 0-18/6 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_scripts/master/jd_818.js, enabled=false, tag=🔥手机狂欢城
+
+cron "11 1 * * *" script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=🏆京东抽奖机
+
+cron "11 9 * * *" script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=🥇京东排行榜
+
+cron "12 */1 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_feedPets.js, tag=🦁宠汪汪喂食
+
+cron "0 0,6 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_steal.js, tag=🦁宠汪汪偷好友积分与狗粮
+
+cron "1 0,8,12,16 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_joy_reward.js, tag=🦁宠汪汪积分兑换奖品
+
+cron "0 0 0 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_blueCoin.js, tag=🛒京小超兑换奖品
+
+cron "55 23 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unsubscribe.js, tag=⚠️取关店铺
+
+
