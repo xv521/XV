@@ -1,3 +1,8 @@
+
+name: 联通余量
+desc: 用于显示免流信息 (Stash 2.0)
+
+
 tiles:
   - name: "10010v3-tile"
     interval: 600
